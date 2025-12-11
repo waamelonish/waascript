@@ -1,5 +1,6 @@
 # waascript
 get official waascript files right here
+coming to mac and linux never as it HEAVILY RELIES ON WINDOWS FORMS
 # setup
 you need .NET 10 for this to run as its made on VB.NET (sorry but i am NOT EVER TOUCHING C++ I SWEAR) as its not bundled
 create 2 shortcuts for the interpreter and the editor..that sucks but will do
